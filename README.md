@@ -5,7 +5,7 @@ note: we used [Aronium - Lite](https://www.aronium.com/en/download) as an exampl
 
 ## Pre-requirements 
 
-A. Install Pyhton
+A. Install [Pyhton](https://www.python.org/downloads/)
 
 B. Install Watchdog lib:
 >    pip install watchdog
