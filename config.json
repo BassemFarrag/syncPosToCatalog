@@ -1,5 +1,5 @@
 {
     "ACCESS_TOKEN": "",
     "WHATSAPP_BUSINESS_ACCOUNT_ID": "",
-    "DATABASE_PATH": ".db"
+    "DATABASE_PATH": "path_to_your_database.db"
 }
