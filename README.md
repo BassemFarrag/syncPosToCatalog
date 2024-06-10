@@ -1,5 +1,5 @@
 # syncPosToCatalog
-** Beta ** A project for sync any pos system using sqlite to sync products with WhatsApp Catalog.
+**Beta** A project for sync any pos system using sqlite to sync products with WhatsApp Catalog.
 note: we used [Aronium - Lite](https://www.aronium.com/en/download) as an example of POS system
 
 
